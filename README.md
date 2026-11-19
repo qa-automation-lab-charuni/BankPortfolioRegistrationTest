@@ -48,6 +48,9 @@ Testing Focus:
 
 Repository Structure
 
+<img width="278" height="430" alt="image" src="https://github.com/user-attachments/assets/a87aaa16-5e9a-4dfc-9406-9f331158f2eb" />
+
+
 BankPortfolioRegistrationTest/
 │
 ├── Bank-Registration-Tests/
