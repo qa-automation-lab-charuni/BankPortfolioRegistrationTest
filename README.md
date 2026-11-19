@@ -50,24 +50,6 @@ Repository Structure
 
 <img width="278" height="430" alt="image" src="https://github.com/user-attachments/assets/a87aaa16-5e9a-4dfc-9406-9f331158f2eb" />
 
-
-BankPortfolioRegistrationTest/
-│
-├── Bank-Registration-Tests/
-│   ├── src/
-│      ├── .gitignore
-│      └── pom.xml
-│
-├── playwright-ts-tests/
-│      ├── .github/workflows
-│      ├── pages
-│      ├── tests
-│         ├── package-lock.json
-│         ├── package.json
-│         ├── playwright.config.ts
-│         └── README.md
-
-
 Learning Objectives
 
 Through these projects, I aim to develop practical skills in:
